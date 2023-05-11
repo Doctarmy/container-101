@@ -55,9 +55,9 @@ CONTAINER ID   IMAGE                  COMMAND                  CREATED         S
 022e87ece6e0   mariadb:10.6.4-focal   "docker-entrypoint.s…"   4 seconds ago   Up 3 seconds   3306/tcp               demo-db-1
 ```
 
-Navigate to `http://localhost:80` in your web browser to access WordPress.
+Navigate to `http://localhost:8080` in your web browser to access WordPress.
 
-![page](output.jpg)
+![page](../img/output.jpg)
 
 Stop and remove the containers
 

@@ -35,3 +35,5 @@ ejecuta un comando dentro de un contenedor
 ```
 docker container exec
 ```
+
+![QR](img/qr-code.jpg)
