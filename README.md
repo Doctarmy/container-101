@@ -2,7 +2,7 @@
 
 Crea y corre a nuevo container desde una imagen
 ```
-docker run
+docker run hello-world
 ```
 
 
